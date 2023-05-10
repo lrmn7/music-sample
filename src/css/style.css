@@ -1,6 +1,6 @@
 body {
   height: 100vh;
-  background: linear-gradient(to bottom, #00aa25 50%, #16191e 50%);
+  background: linear-gradient(to bottom, #f0f0f0 50%, #16191e 50%);
 }
 
 .music-player {
